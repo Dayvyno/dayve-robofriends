@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dayve-robofriends/static/css/main.26bdb27b.chunk.css",
+    "main.js": "/dayve-robofriends/static/js/main.50892e69.chunk.js",
+    "main.js.map": "/dayve-robofriends/static/js/main.50892e69.chunk.js.map",
+    "runtime-main.js": "/dayve-robofriends/static/js/runtime-main.e6020858.js",
+    "runtime-main.js.map": "/dayve-robofriends/static/js/runtime-main.e6020858.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/dayve-robofriends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.c46278d8.chunk.js": "/dayve-robofriends/static/js/2.c46278d8.chunk.js",
+    "static/js/2.c46278d8.chunk.js.map": "/dayve-robofriends/static/js/2.c46278d8.chunk.js.map",
+    "static/js/3.510229ba.chunk.js": "/dayve-robofriends/static/js/3.510229ba.chunk.js",
+    "static/js/3.510229ba.chunk.js.map": "/dayve-robofriends/static/js/3.510229ba.chunk.js.map",
+    "index.html": "/dayve-robofriends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/dayve-robofriends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.26bdb27b.chunk.css.map": "/dayve-robofriends/static/css/main.26bdb27b.chunk.css.map",
+    "static/js/2.c46278d8.chunk.js.LICENSE.txt": "/dayve-robofriends/static/js/2.c46278d8.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/dayve-robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6020858.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.c46278d8.chunk.js",
+    "static/css/main.26bdb27b.chunk.css",
+    "static/js/main.50892e69.chunk.js"
+  ]
+}
